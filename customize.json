@@ -1,7 +1,7 @@
 {
   "greeting": "Hello",
   "name": "Agna",
-  "greetingText": "That's a pretty unique name I keep forgetting to say that!",
+  "greetingText": "That's a pretty unique name I keep forgetting to say that",
   "wishText": "May you have a happier year and acquire many more souvenirs from multiple parts of the world ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
@@ -12,11 +12,11 @@
   "text4": "Aa type wishinginu vibe pora lle?",
   "text4Adjective": "Right?",
   "text5Entry": "And I was bored so,",
-  "text5Content": "Why not?",
+  "text5Content": "why not make this?",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "Happy  Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
